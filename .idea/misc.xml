@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/activity_home_page.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/activity_post_screen.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/activity_register.xml" value="0.19230769230769232" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/activity_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/fragment_home.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/fragment_user_activity.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Limey/app/src/main/res/layout/item_post.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
